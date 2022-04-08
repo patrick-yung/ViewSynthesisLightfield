@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.module": "php",
+        "cmath": "cpp",
+        "xlocale": "cpp",
+        "iostream": "cpp"
+    }
+}
